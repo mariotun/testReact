@@ -14,6 +14,7 @@ function App() {
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
           </button>
+          <h2>Prueba de ci/cd con vercel</h2>
         </p>
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
